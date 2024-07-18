@@ -1,10 +1,7 @@
 # Swipe News App - Description
 
-[![doc1](https://docs.alfasolutions.net/public/media_storage/file-manager-assets/doc1-6695492629c07.png)](https://docs.alfasolutions.net/public/docs/swipe-news/version-1)
+[![doc1](https://docs.alfasolutions.net/public/media_storage/file-manager-assets/doc1-6695492629c07.png)](https://docs.alfasolutions.net/public/docs/swipe-news/version-1) [![doc2](https://docs.alfasolutions.net/public/media_storage/file-manager-assets/doc2-66954aa21c59a.png)](https://alfasolutions.net/user/login) [![doc3](https://docs.alfasolutions.net/public/media_storage/file-manager-assets/doc3.png)](https://wa.me/923167557725)
 
-[![doc2](https://docs.alfasolutions.net/public/media_storage/file-manager-assets/doc2-66954aa21c59a.png)](https://alfasolutions.net/user/login)
-
-[![doc3](https://docs.alfasolutions.net/public/media_storage/file-manager-assets/doc3.png)](https://wa.me/923167557725)
 
 ## Overview
 
